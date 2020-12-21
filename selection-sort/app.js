@@ -1,3 +1,4 @@
+
 function selectionSort(myArray){
 
     let myArrayLength = myArray.length;
